@@ -1,4 +1,4 @@
-# 👋 Hola, soy Lucas LERV
+# 👋 Hola, soy LERV
 
 🎯 **Fullstack Developer | Java, Spring Boot, Vue.js, Angular & GCP**
 
