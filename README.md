@@ -58,4 +58,4 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 
 ---
 
-> 🚀 Siempre explorando nuevas tecnologías y construyendo proyectos que me apasionan.
+> 🚀 Muchas gracias por tomarte el tiempo de leer esta bio.
