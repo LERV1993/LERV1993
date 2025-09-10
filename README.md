@@ -13,18 +13,21 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 ![Java](https://img.shields.io/badge/Java-17+-blue?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring)
 ![Swagger](https://img.shields.io/badge/Swagger-orange?style=for-the-badge&logo=swagger)
-![REST API](https://img.shields.io/badge/REST_API-lightgrey?style=for-the-badge)
+![CryptoJS](https://img.shields.io/badge/CryptoJS-FF9900?style=for-the-badge)
 
 ### Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-3-brightgreen?style=for-the-badge&logo=vue.js)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
-![jsPDF](https://img.shields.io/badge/jsPDF-purple?style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+![FontAwesome](https://img.shields.io/badge/FontAwesome-black?style=for-the-badge&logo=font-awesome)
+![ngx-echarts](https://img.shields.io/badge/ngx--echarts-blueviolet?style=for-the-badge)
 
 ### Cloud / Database
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![Firestore](https://img.shields.io/badge/Firestore-orange?style=for-the-badge&logo=googlecloud)
-![Cloud](https://img.shields.io/badge/Cloud-ready-lightblue?style=for-the-badge)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-blue?style=for-the-badge&logo=googlecloud)
+
 
 ---
 
