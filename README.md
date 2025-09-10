@@ -39,9 +39,12 @@ Me encanta construir **aplicaciones modernas, escalables y seguras**, combinando
 ## 📊 GitHub Stats
 
 ![Lucas LERV GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LERV1993&theme=dracula)
-![GitHub followers](https://img.shields.io/github/followers/lerv1993?style=social)
-![GitHub stars](https://img.shields.io/github/stars/lerv1993?style=social)
-![GitHub repo count](https://img.shields.io/github/repos/lerv1993?style=social)
+
+![GitHub followers](https://img.shields.io/github/followers/LERV1993?style=social)
+
+![GitHub stars](https://img.shields.io/github/stars/LERV1993?style=social)
+
+![GitHub repo count](https://img.shields.io/github/repos/LERV1993?style=social)
 
 
 ---
