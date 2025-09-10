@@ -44,8 +44,6 @@ Me encanta construir **aplicaciones modernas, escalables y seguras**, combinando
 
 ![GitHub stars](https://img.shields.io/github/stars/LERV1993?style=social)
 
-![GitHub repo count](https://img.shields.io/github/repos/LERV1993?style=social)
-
 
 ---
 
