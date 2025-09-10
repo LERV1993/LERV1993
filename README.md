@@ -1,8 +1,9 @@
 # 👋 Hola, soy Lucas LERV
 
-🎯 **Fullstack Developer | Java, Spring Boot, Vue.js, Angular, GCP & Firebase**
+🎯 **Fullstack Developer | Java, Spring Boot, Vue.js, Angular & GCP**
 
-Me encanta construir **aplicaciones modernas, escalables y seguras**, combinando un **backend sólido en Java/Spring Boot** con **frontends dinámicos en Vue.js y Angular**, todo conectado a la nube con **Firebase**.
+Me apasiona **participar en proyectos modernos**, aplicando el **aprendizaje** y nuevas tecnologías.  
+Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener siempre **las mejores prácticas de desarrollo** en cada proyecto.  
 
 ---
 
@@ -29,10 +30,10 @@ Me encanta construir **aplicaciones modernas, escalables y seguras**, combinando
 
 ## ⚡ Skills
 
-- **Backend:** Java, Spring Boot, Spring Security, JPA, SOAP/REST APIs  
-- **Frontend:** Vue.js, Inertia.js, Angular, Tailwind CSS, Formularios dinámicos  
+- **Backend:** Java, PHP , Spring Boot, Spring Security, JPA, SOAP/REST APIs  
+- **Frontend:** Vue.js, Inertia.js, Angular, Tailwind CSS  
 - **Dev Tools:** Gradle/Maven, Git, NPM/Yarn, VS Code  
-- **Extras:** Criptografía, PDFs dinámicos, Firebase Storage & Firestore
+- **Extras:** Criptografía, PDFs dinámicos, Firebase , Linux , GCP
 
 ---
 
