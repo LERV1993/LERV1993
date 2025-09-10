@@ -12,6 +12,7 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17+-blue?style=for-the-badge&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Swagger](https://img.shields.io/badge/Swagger-orange?style=for-the-badge&logo=swagger)
 ![CryptoJS](https://img.shields.io/badge/CryptoJS-FF9900?style=for-the-badge)
 
@@ -27,7 +28,8 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![Firestore](https://img.shields.io/badge/Firestore-orange?style=for-the-badge&logo=googlecloud)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-blue?style=for-the-badge&logo=googlecloud)
-
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![BigQuery](https://img.shields.io/badge/BigQuery-0033CC?style=for-the-badge&logo=googlebigquery)
 
 ---
 
