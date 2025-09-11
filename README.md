@@ -11,6 +11,7 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17+-blue?style=for-the-badge&logo=java)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
 ![Swagger](https://img.shields.io/badge/Swagger-orange?style=for-the-badge&logo=swagger)
@@ -24,6 +25,10 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-black?style=for-the-badge&logo=font-awesome)
 ![ngx-echarts](https://img.shields.io/badge/ngx--echarts-blueviolet?style=for-the-badge)
 
+### Mobile
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android)
+
 ### Cloud / Database
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![Firestore](https://img.shields.io/badge/Firestore-orange?style=for-the-badge&logo=googlecloud)
@@ -35,10 +40,11 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 
 ## ⚡ Skills
 
-- **Backend:** Java, PHP , Spring Boot, Spring Security, JPA, SOAP/REST APIs  
-- **Frontend:** Vue.js, Inertia.js, Angular, Tailwind CSS  
+- **Backend:** Java, Kotlin, Spring Boot, PHP, Spring Security, JPA, SOAP/REST APIs, Criptografía  
+- **Frontend:** Vue.js, Inertia.js, Angular, Tailwind CSS, Bootstrap, FontAwesome, ngx-echarts, Formularios dinámicos  
+- **Mobile:** Android, Jetpack Compose  
+- **Database / Cloud:** MySQL, Firebase Firestore & Storage, Google Cloud Platform, BigQuery  
 - **Dev Tools:** Gradle/Maven, Git, NPM/Yarn, VS Code  
-- **Extras:** Criptografía, PDFs dinámicos, Firebase , Linux , GCP
 
 ---
 
