@@ -1,15 +1,15 @@
-# 👋 Hola, soy LERV
+# 👋 ¡Hola, soy LERV!  
 
-🎯 **Fullstack Developer | Java, Spring Boot, Vue.js, Angular & GCP**
+🎯 **Fullstack Developer | Java, Spring Boot, Vue.js, Angular & GCP**  
 
-Me apasiona **participar en proyectos modernos**, aplicando el **aprendizaje** y nuevas tecnologías.  
-Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener siempre **las mejores prácticas de desarrollo** en cada proyecto.  
+Me apasiona **crear soluciones modernas y escalables**, aprendiendo siempre nuevas tecnologías.  
+Disfruto **trabajar en equipo**, aplicar **buenas prácticas de desarrollo** y aportar valor en cada proyecto 🚀.  
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Backend
+### 🔹 Backend
 ![Java](https://img.shields.io/badge/Java-17+-blue?style=for-the-badge&logo=java)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-green?style=for-the-badge&logo=spring)
@@ -17,7 +17,7 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 ![Swagger](https://img.shields.io/badge/Swagger-orange?style=for-the-badge&logo=swagger)
 ![CryptoJS](https://img.shields.io/badge/CryptoJS-FF9900?style=for-the-badge)
 
-### Frontend
+### 🔹 Frontend
 ![Vue.js](https://img.shields.io/badge/Vue.js-3-brightgreen?style=for-the-badge&logo=vue.js)
 ![Angular](https://img.shields.io/badge/Angular-red?style=for-the-badge&logo=angular)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-blue?style=for-the-badge&logo=tailwind-css)
@@ -25,11 +25,11 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 ![FontAwesome](https://img.shields.io/badge/FontAwesome-black?style=for-the-badge&logo=font-awesome)
 ![ngx-echarts](https://img.shields.io/badge/ngx--echarts-blueviolet?style=for-the-badge)
 
-### Mobile
+### 🔹 Mobile
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android)
 
-### Cloud / Database
+### 🔹 Cloud / Database
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase)
 ![Firestore](https://img.shields.io/badge/Firestore-orange?style=for-the-badge&logo=googlecloud)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-blue?style=for-the-badge&logo=googlecloud)
@@ -38,30 +38,32 @@ Disfruto **trabajar en equipo**, colaborar en soluciones escalables y mantener s
 
 ---
 
-## ⚡ Skills
+## ⚡ Habilidades Clave
 
-- **Backend:** Java, Kotlin, Spring Boot, PHP, Spring Security, JPA, SOAP/REST APIs, Criptografía  
-- **Frontend:** Vue.js, Inertia.js, Angular, Tailwind CSS, Bootstrap, FontAwesome, ngx-echarts, Formularios dinámicos  
-- **Mobile:** Android, Jetpack Compose  
+- **Backend:** Java, Kotlin, Spring Boot, Spring Security, JPA, PHP, APIs SOAP/REST, Criptografía  
+- **Frontend:** Vue.js, Angular, Inertia.js, Tailwind CSS, Bootstrap, ngx-echarts, UI responsivas y dinámicas  
+- **Mobile:** Android nativo con Jetpack Compose  
 - **Database / Cloud:** MySQL, Firebase Firestore & Storage, Google Cloud Platform, BigQuery  
 - **Dev Tools:** Gradle/Maven, Git, NPM/Yarn, VS Code  
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estadísticas
 
 ![Lucas LERV GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LERV1993&theme=dracula)
 
-![GitHub followers](https://img.shields.io/github/followers/LERV1993?style=social)
-
-![GitHub stars](https://img.shields.io/github/stars/LERV1993?style=social)
-
-
----
-
-## 📫 Contacto
-- LinkedIn: [linkedin.com/in/lerv](https://www.linkedin.com/in/lerv)  
+<p align="left">
+  <img src="https://img.shields.io/github/followers/LERV1993?style=social" />
+  <img src="https://img.shields.io/github/stars/LERV1993?style=social" />
+</p>
 
 ---
 
-> 🚀 Muchas gracias por tomarte el tiempo de leer esta bio.
+## 📫 Conectemos
+
+- 💼 LinkedIn: [linkedin.com/in/lerv](https://www.linkedin.com/in/lerv)  
+- 📧 Email: [lucas.ruiz@lerv.com.ar](mailto:lucas.ruiz@lerv.com.ar?subject=Contacto%20desde%20Github)
+
+---
+
+✨ *Gracias por pasar por mi perfil. Siempre abierto a nuevos retos y colaboraciones.*  
