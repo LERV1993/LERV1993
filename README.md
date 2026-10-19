@@ -74,9 +74,6 @@ Me enfoco en **arquitectura limpia, buenas prácticas y rendimiento**, siempre a
 
 ## 📫 Contacto
 
-💼 **LinkedIn**  
-👉 https://www.linkedin.com/in/lerv  
-
 📧 **Email**  
 👉 lucas.ruiz@lerv.com.ar  
 
